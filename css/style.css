@@ -1212,10 +1212,6 @@ ul.post-comment li p {
     line-height: 20px;
 }
 
-p.contact-message {
-    margin-top: 30px;
-}
-
 .section-title p {
     margin-top: 20px;
 }
@@ -1441,6 +1437,7 @@ a.site-button {
     max-width: 750px;
     margin: auto;
     line-height: 1.8;
+    margin-top: 30px;
 }
 
 .pricing-list-tab .tabs {
@@ -1509,7 +1506,7 @@ a.site-button {
 
 .single-pricing-table .pricing-features {
     padding-left: 0;
-    text-align: center;
+    text-align: left;
     list-style-type: none;
     margin-top: 30px;
     margin-bottom: 0;
@@ -1521,8 +1518,7 @@ a.site-button {
     margin-bottom: 10px;
     position: relative;
     color: #000000;
-    font-size: 16px;
-    font-weight: 600;
+    font-size: 14px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     font-family: "Nunito", sans-serif;
