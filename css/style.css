@@ -1212,6 +1212,10 @@ ul.post-comment li p {
     line-height: 20px;
 }
 
+p.contact-message {
+    margin-top: 30px;
+}
+
 .section-title p {
     margin-top: 20px;
 }
