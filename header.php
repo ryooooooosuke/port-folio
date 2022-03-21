@@ -8,7 +8,7 @@
     <meta name="keywords" content="personal, portfolio">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Favicon -->
-    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="<?php bloginfo('template_url') ;?>/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="<?php bloginfo('template_url') ;?>/css/bootstrap.css" />
@@ -22,8 +22,8 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
 
     <!-- Font icons -->
-    <link rel="stylesheet" href="icon-fonts/font-awesome-4.5.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="icon-fonts/essential-regular-fonts/essential-icons.css" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url') ;?>/icon-fonts/font-awesome-4.5.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url') ;?>/icon-fonts/essential-regular-fonts/essential-icons.css" />
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

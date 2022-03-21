@@ -13,7 +13,7 @@
         <div class="row">
             <div class="container">
                 <div class="logo">
-                    <img src="images/logo.png" alt="">
+                    <img src="<?php bloginfo('template_url') ;?>/images/logo.png" alt="">
                 </div>
                 <div class="responsive"><i data-icon="m" class="icon"></i></div>
                 <ul class="nav-menu">
@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 about-image wow fadeInUp" data-wow-delay="0.4s">
-                    <img src="images/about.jpg" alt="">
+                    <img src="<?php bloginfo('template_url') ;?>/images/about.jpg" alt="">
                 </div>
                 <div class="col-md-6 about-text wow fadeInUp" data-wow-delay="0.8s">
                     <div class="out">
@@ -239,26 +239,26 @@
                         <!-- Item -->
                         <a href="https://www.youtube.com/watch?v=M-M3rdL_WLQ" class="popup-youtube single_item link development col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <img src="images/work-1.jpg" alt="">
+                            <img src="<?php bloginfo('template_url') ;?>/images/work-1.jpg" alt="">
                         </a>
                         <!-- Item -->
                         <a href="images/work-2.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
-                            <img src="images/work-2.jpg" alt="">
+                            <img src="<?php bloginfo('template_url') ;?>/images/work-2.jpg" alt="">
                         </a>
                         <!-- Item -->
                         <a href="images/work-3.jpg" class="single_item link development col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.9s">
-                            <img src="images/work-3.jpg" alt="">
+                            <img src="<?php bloginfo('template_url') ;?>/images/work-3.jpg" alt="">
                         </a>
                         <!-- Item -->
                         <a href="images/work-4.jpg" class="single_item link web-design col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.2s">
-                            <img src="images/work-4.jpg" alt="">
+                            <img src="<?php bloginfo('template_url') ;?>/images/work-4.jpg" alt="">
                         </a>
                         <!-- Item -->
                         <a href="images/work-5.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.5s">
-                            <img src="images/work-5.jpg" alt="">
+                            <img src="<?php bloginfo('template_url') ;?>/images/work-5.jpg" alt="">
                         </a>
                         <!-- Item -->
-                        <a href="images/work-6.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.8s">
+                        <a href="<?php bloginfo('template_url') ;?>/images/work-6.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.8s">
                             <img src="images/work-6.jpg" alt="">
                         </a>
                     </div>
